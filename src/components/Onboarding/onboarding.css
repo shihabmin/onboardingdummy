@@ -26,3 +26,10 @@ p {
     font-weight: medium;
     color: #03064D !important;
 }
+
+@media (max-width: 540px) {
+    .onboarding-main-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+}
