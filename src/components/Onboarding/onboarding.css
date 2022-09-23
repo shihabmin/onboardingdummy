@@ -1,6 +1,6 @@
 .onboarding-main-wrapper{
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 37% 63%;
     margin: 0;
     position: absolute;
     top: 50%;
@@ -15,12 +15,14 @@ p {
 }
 
 .info-header {
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
     margin-bottom: 0;
+    color: #03064D !important;
 }
 
 .info-sub-header {
-    font-size: 16px;
+    font-size: 12px;
     font-weight: medium;
+    color: #03064D !important;
 }

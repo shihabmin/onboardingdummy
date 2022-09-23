@@ -1,4 +1,21 @@
-.staticsidebar-main-wrapper{
-    background-color: #E7EAF7;
+.staticsidebar-main-wrapper {
+    background-color: rgb(231, 234, 247, .5);
     padding: 36px;
+}
+
+.steps-wrapper {
+    margin-top: 36px;
+}
+
+.ant-steps-item-title {
+    font-size: 10px !important;
+    color: #03064D !important;
+}
+
+.ant-steps-item-icon {
+    background-color: #03064D !important;
+}
+
+.ant-steps-icon{
+    color: white !important;
 }

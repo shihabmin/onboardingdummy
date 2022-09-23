@@ -1,3 +1,48 @@
 .info-sub-header{
     max-width: 400px;
 }
+.add-bank-tabs-wrapper{
+    margin: 30px 0 48px;
+}
+
+.recommended-tab{
+    background-color: #03064D;
+    color: white !important;
+    margin-bottom: 0;
+    font-size: 6px;
+    max-width: 60px;
+    padding: 2px 3px 0px;
+    margin-left: 25px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    text-align: center;
+}
+
+.add-bank-tab {
+    display: flex;
+    border: 1px solid #03064D;
+    border-radius: 32px;
+    padding: 8px 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    max-width: 180px;
+    box-shadow: 1px 2px #E7EAF7;
+}
+
+.add-bank-tab > .anticon svg {
+    color: #03064D;
+    font-size: 18px;
+    margin-right: 12px;
+}
+
+.add-bank-tab-text > .main-text {
+    font-weight: bold;
+    font-size: 10px;
+    margin-bottom: 0;
+}
+
+.add-bank-tab-text > .sub-text {
+    margin-bottom: 0;
+    color: #CFD0DA;
+    font-size: 8px;
+}
