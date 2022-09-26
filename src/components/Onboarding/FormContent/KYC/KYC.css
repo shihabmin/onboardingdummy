@@ -1,0 +1,28 @@
+.ant-radio-inner {
+    border-color: #04064D !important;
+}
+
+.kyc-radio-sub-text {
+    font-size: 8px;
+    color: #B3B4C9 !important;
+}
+
+.kyc-radio-main-text {
+    color: #04064D !important;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.select-kyc-method {
+    margin-top: 24px !important;
+}
+
+.continue-btn-kyc {
+    background-color: #011AF6 !important;
+    color: white !important;
+    width: 18em;
+    font-size: 10px !important;
+    letter-spacing: 1.5px;
+    margin-top: 100px;
+}
