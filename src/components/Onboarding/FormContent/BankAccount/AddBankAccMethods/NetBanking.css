@@ -1,0 +1,40 @@
+.get-otp-btn{
+    background-color: #011AF6 !important;
+    color: white !important;
+    width: 20em;
+    font-size: 10px !important;
+}
+
+.backtoBankAcc-btn-txt, .backtoBankAcc-btn-icon{
+    font-size: 8px;
+    color: #011AF6 !important;
+}
+
+.backtoBankAcc-btn-icon{
+    font-size: 6px;
+}
+
+.netbanking-main-wrapper > .inputs-wrapper > .customerID-input, .customerID-pword-input {
+    border-width: 0 0 2px 0 !important;
+    border-color: #B3B4C9 !important;
+    padding-left: 0 !important;
+    margin-bottom: 32px !important;
+}
+
+.netbanking-main-wrapper > .inputs-wrapper > .ant-input, .ant-input-affix-wrapper :focus {
+    border-width: 0 0 2px 0 !important;
+    border-color: #B3B4C9 !important;
+}
+
+.netbanking-main-wrapper > .inputs-wrapper > .ant-input, .ant-input-affix-wrapper :hover {
+    border-width: 0 0 2px 0 !important;
+    border-color: #B3B4C9 !important;
+}
+
+.netbanking-main-wrapper > .inputs-wrapper {
+    margin-bottom: 24px;
+}
+
+.backtoPrevPage-btn {
+    margin-top: 8px;
+}

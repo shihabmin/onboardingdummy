@@ -47,3 +47,8 @@
     color: #CFD0DA;
     font-size: 8px;
 }
+
+.add-bank-tab__selected{
+    max-width: 240px !important;
+    margin: 28px 0;
+}
