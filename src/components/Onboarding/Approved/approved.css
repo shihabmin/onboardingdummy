@@ -1,0 +1,28 @@
+.approved-credit-amt-card-wrapper{
+    background-image: linear-gradient(to top left, #CFD0DA, #E7EAF7);
+    border: 1px solid white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px #888888;
+    padding:  16px;
+    margin: 24px 0;
+}
+
+.approved-credit-amt-card-wrapper > .ant-typography {
+    color: #03064D;
+}
+
+.approved-credit-amt-card-wrapper > .approved-amt-txt {
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+.approved-credit-amt-card-wrapper > .interest-txt {
+    font-size: 10px;
+    margin-top: 32px;
+}
+
+.cr-limit-details{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
